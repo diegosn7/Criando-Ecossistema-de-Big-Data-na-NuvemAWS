@@ -1,7 +1,7 @@
 # Projeto Criando-Ecossistema-de-Big-Data-na-Nuvem-AWS
 ## Bootcamp Cognizant Cloud Data Engineer
 
-Repositório de cógido Criando-seu-Ecossistema-de-Big-Data-na-Nuvem AWS com AWS EMR e Python
+Repositório de cógido Criando-seu-Ecossistema-de-Big-Data-na-Nuvem com AWS EMR e Python
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
 ## Instruções
